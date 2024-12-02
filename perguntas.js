@@ -1,23 +1,23 @@
 criaCartao(
     'Entretenimento',
-    'Quais são os personagens principais de The O.C??',
-    'Ryan, Seth, Marissa, Summer, Luke, Sandy, Kirsten, Jules, Jimmy'
+    'Quem são os personagens principais?',
+    'A série retrata dois irmãos, Sam e Dean Winchester que caçam criaturas sobrenaturais'
 )
 
 criaCartao(
     'Entretenimento',
-    'Em que cidade se passa a série Gossip Girl?',
-    'Nova York, NY, EUA'
+    'Quem e "-A" em Pretty Little Liars?',
+    '"-A" é a Mona, amiga de Hannah'
 )
 
 criaCartao(
     'Entretenimento',
-    'Quais são os personagens principais de Gilmore Girls??',
-    'Rory Gilmore, Lorelai Gilmore, Luke Danes, Sookie, Emily Gilmore'
+    'De onde saíram os demogorgons, em Hawkins, na série Stranger Things?',
+    'Eles saíram do portal do mundo invertido, que fica localizado no laboratório Hawkins'
 )
 
 criaCartao(
     'Entretenimento',
-    'Qual o nome da penitenciária onde Prison Break é ambientada??',
-    'Fox River'
+    'Qual a universidade que a personagem Rory Gilmore quer entrar, no começo da série Gilmore Girls?',
+    'A universidade é Harvard'
 )
